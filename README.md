@@ -49,6 +49,6 @@ every milestone in my 6-month intensive learning journey.
 ---
 
 ## 📬 Contact
-- **Email:** your.email@gmail.com
-- **LinkedIn:** linkedin.com/in/[your-profile]
-- **MEXT Research Plan:** Available on request
+- **Email:** capn.praveenz@gmail.com
+- **LinkedIn:** linkedin.com/in/praveen-kumar-t-44138a374
+- **MEXT Research Plan:** CAN Bus Intrusion Detection System on a Resource-Constrained MCU
