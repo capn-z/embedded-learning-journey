@@ -1,5 +1,5 @@
 # 🔌 Embedded Engineering Learning Journey
-### Praveen Kumar T | B.E. ECE | Tiruchirappalli, India
+### Praveen Kumar T | B.E. ECE | Tamil Nadu, India
 ### Goal: Embedded Engineer in Japan 🇯🇵 | Started: June 2026
 
 ---
